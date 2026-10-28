@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# Samyak Jain
 
 Python developer building AI-powered tools and real-time data apps. This repo is my portfolio: a multi-page **Streamlit** app containing the portfolio site and two working projects, written entirely in Python.
 
